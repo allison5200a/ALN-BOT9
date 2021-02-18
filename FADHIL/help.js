@@ -3,13 +3,13 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 
 ╭───────────────────
 ┃╭─────────────────
-┃├➲ \`\`\`Hallo\`\`\`👋 *${pushname2}*
-┃├➲ \`\`\`I'am\`\`\` *${name}
-┃├➲ \`\`\`Limit Kamu :\`\`\` *${limitt}*
-┃├➲ \`\`\`Verifikasi.   :\`\`\` *YES*
+┃├➲ \`\`\`Óla\`\`\`👋 *${pushname2}*
+┃├➲ \`\`\`Eu sou\`\`\` *${name}
+┃├➲ \`\`\`Seu limite :\`\`\` *${limitt}*
+┃├➲ \`\`\`Verificação.   :\`\`\` *YES*
 ┃├➲ \`\`\`Premium.   :\`\`\` *NO*
-┃├➲ \`\`\`Total Pengguna :\`\`\` *${user.length} User*
-┃├➲ \`\`\`Total Donasi :\`\`\` *0%* 🙂
+┃├➲ \`\`\`Total de usuários :\`\`\` *${user.length} User*
+┃├➲ \`\`\`Doação Total :\`\`\` *0%* 🙂
 ┃╰─────────────────
 ┃
 ┃╭───「 *LIST MENU* 」───
@@ -39,16 +39,11 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 ┃
 ┃
 ┃╭─「 *SUPPORT!!* 」────
-┃├➲ *FADHIL G*
-┃├➲ *BRYAN R*
-┃├➲ *AFFIS J*
-┃├➲ *ANANG*
-┃├➲ *NAZWA S*
-┃├➲ *MEMBER MYBOT TEAM*
+┃├➲ *SR>ALLISON*
 ┃╰──────────────────
 ┃
 ╰────────────────────
 
-         *©Fadhil Graphy*`
+         *©ᴀʟɴ ʙᴏᴛs*`
 }
 exports.help = help
